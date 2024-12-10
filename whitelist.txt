@@ -1,2 +1,3 @@
 s.youtube.com #Youtube Verlauf
 graph.facebook.com
+web.facebook.com
