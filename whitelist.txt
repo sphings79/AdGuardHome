@@ -3,3 +3,4 @@ web.facebook.com #FB Reels
 xp.apple.com #Apple Updates
 track.adtraction.com #mydealz
 mydealz.digidip.net #mydealz
+variations.brave.com #https://github.com/brave/brave-browser/wiki/Brave-Variations-(Griffin)
