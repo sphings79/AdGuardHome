@@ -1,3 +1,5 @@
 s.youtube.com #Youtube Verlauf
-#graph.facebook.com #evtl FB Reels
 web.facebook.com #FB Reels
+xp.apple.com #Apple Updates
+track.adtraction.com #mydealz
+mydealz.digidip.net #mydealz
