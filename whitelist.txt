@@ -5,3 +5,4 @@ track.adtraction.com #mydealz
 mydealz.digidip.net #mydealz
 variations.brave.com #https://github.com/brave/brave-browser/wiki/Brave-Variations-(Griffin)
 clients1.google.com #google drive, certs, ...
+metrics.icloud.com #Apple Kontakte
