@@ -1,0 +1,7 @@
+softwareupdates.amazon.com #Amazon Updates
+d1s31zyz7dcc2d.cloudfront.net #Amazon Updates
+amzdigital-a.akamaihd.net #Amazon Updates
+amzdigitaldownloads.edgesuite.net #Amazon Updates
+updates.amazon.com #Amazon Updates
+arcus-uswest.amazon.com #Amazon Updates
+arcus-useast.amazon.com #Amazon Updates
