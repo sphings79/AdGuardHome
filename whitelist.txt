@@ -3,6 +3,10 @@ web.facebook.com #FB Reels
 xp.apple.com #Apple Updates
 track.adtraction.com #mydealz
 mydealz.digidip.net #mydealz
+mydealz3de.digidip.net #mydealz
 variations.brave.com #https://github.com/brave/brave-browser/wiki/Brave-Variations-(Griffin)
 clients1.google.com #google drive, certs, ...
 metrics.icloud.com #Apple Kontakte
+html-load.com #Simple Feed RSS Reader
+assets.alicdn.com #Aliexpress App
+r4---sn-4g5ednld.googlevideo.com
